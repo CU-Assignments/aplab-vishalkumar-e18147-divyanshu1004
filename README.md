@@ -27,11 +27,11 @@
 
 ## Solutions
 
-[Solution of Longest Nice Substring, click here](https://github.com/user-attachments/assets/ed1a9897-8d7f-4ded-a06b-cc94cf1649d7)<br>
-[Solution of Reverse Bits, click here](https://github.com/user-attachments/assets/b5ed4c0b-1afd-4a19-9d52-5238c81473c5)<br>
-[Solution of Number of 1 Bits, click here](https://github.com/user-attachments/assets/60f04e4f-a30c-490e-b96f-2711b52ec3af)<br>
-[Solution for Maximum Subarray](https://github.com/user-attachments/assets/28b54281-b9ad-4467-911a-355734ea06a8)<br>
-[Solution for Search a 2d Matrix II, click here](https://github.com/user-attachments/assets/e42002dd-39d5-4641-879a-26df1cd99ade)<br>
+![Solution of Longest Nice Substring, click here](https://github.com/user-attachments/assets/ed1a9897-8d7f-4ded-a06b-cc94cf1649d7)<br>
+![Solution of Reverse Bits, click here](https://github.com/user-attachments/assets/b5ed4c0b-1afd-4a19-9d52-5238c81473c5)<br>
+![Solution of Number of 1 Bits, click here](https://github.com/user-attachments/assets/60f04e4f-a30c-490e-b96f-2711b52ec3af)<br>
+![Solution for Maximum Subarray](https://github.com/user-attachments/assets/28b54281-b9ad-4467-911a-355734ea06a8)<br>
+![Solution for Search a 2d Matrix II, click here](https://github.com/user-attachments/assets/e42002dd-39d5-4641-879a-26df1cd99ade)<br>
 ![Solution to Super Pow](https://github.com/user-attachments/assets/b603f3ec-0503-4b37-ac7d-8080a45a6274)<br>
 ![Solution for Beautiful Array](https://github.com/user-attachments/assets/8e045338-1632-42be-a008-62160329c6a4)<br>
 ![Solution for The skyline Problem](https://github.com/user-attachments/assets/edf5814d-792c-408b-95d2-03f32c388ead)<br>
