@@ -23,3 +23,6 @@
 324.[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/)<br>
 378.[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)<br>
 4.[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)<br>
+
+<h2>solutions</h2>
+![image](https://github.com/user-attachments/assets/ed1a9897-8d7f-4ded-a06b-cc94cf1649d7)
